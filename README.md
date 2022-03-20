@@ -15,7 +15,7 @@ Steps taken to meet the critical requirements necessary to develop my portfolio 
             
          *  index.js - used for performing the little function for the "hamburger" icon at the top right hand corner of the portfolio page. This would be the next step in which I would give a brief description of its usage.
             
-         *  I have gathered a few images namely image-01.jpg (a recent photo of myself), image-02.jpg(the meaning motivated me), portfolio-01.jpg (my first task which have deployed on GitHub), portfolio-02.jpg to portfolio.06 are placeholder images.  
+         *  I have gathered a few images namely image-01.jpg (a recent photo of myself), image-02.jpg(the meaning motivated me), por.png (portfolio image), portfolio-01.jpg (my first task which have deployed on GitHub), portfolio-02.jpg to portfolio.06 are placeholder images.  
 
     2)  The criteria of :-
         

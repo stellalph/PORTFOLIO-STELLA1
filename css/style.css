@@ -15,7 +15,7 @@
     
     --clr-light: #fff;
     --clr-dark: #050000e5;
-    --clr-accent: #74bbfd;
+    --clr-accent: #74fd8b;
     
     --fs-h1: 3rem;
     --fs-h2: 2.25rem;
@@ -146,7 +146,7 @@ header {
     border-color: #111;
     text-align: justify;
     border-width: 3em;
-    
+    position: absolute;
     
 }
 

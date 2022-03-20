@@ -15,8 +15,8 @@ Steps taken to meet the critical requirements necessary to develop my portfolio 
             
          *  index.js - used for performing the little function for the "hamburger" icon at the top right hand corner of the portfolio page. This would be the next step in which I would give a brief description of its usage.
             
-         *  I have gathered a few images namely image-01.jpg (a recent photo of myself), image-02.jpg(the meaning motivated me), logo.jpg (portfolio image), portfolio-01.jpg (my first task which have deployed on GitHub), portfolio-02.jpg to portfolio.06 are placeholder images.  
-
+         *  I have gathered a few images namely image-01.jpg (a recent photo of myself), image-02.jpg(the meaning motivated me), logo.jpg (portfolio image), portfolio-01.jpg (my first task which have deployed on GitHub), portfolio-02.jpg to portfolio.06 are placeholder images.
+  
     2)  The criteria of :-
         
         GIVEN I need to sample a potential employee 's previous work 
@@ -29,13 +29,13 @@ Steps taken to meet the critical requirements necessary to develop my portfolio 
 
         * I have structured HTML and CSS to different sections:-
 
-          - Home (Introduction in both HTML and CSS files - where the recent photo, name and position title are located)
+          - Home (Introduction in both HTML and CSS files - where the recent photo, name and position title are located).  Position title (I make this up).git 
 
-          - My Skills (What I do - list of skills)
+          - My Skills (What I do - list of skills).  I make this up.
 
-          - About Me (Who I am - more details on what kind of individual and way of contacting me for further information)
+          - About Me (Who I am - more details on what kind of individual and way of contacting me for further information). Image and the quoted comment is cited from ZEN - The Art of Simple Living by Shunmyo Masuno - page 130.
 
-          - My Work ( a showcase of my work selection using HTML, CSS, Javascript and Node.js).  At this stage, I have only one deployed application.
+          - My Work ( a showcase of my work selection using HTML, CSS, Javascript and Node.js).  At this stage, I have only one deployed application.  The portfolio images are just random images sourced from the web - www.google.com or the Internet Explorer, Microsoft Edge.
 
      3) The criteria of : -
 

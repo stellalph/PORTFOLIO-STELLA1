@@ -79,3 +79,4 @@ To connect the local repository to the remote repository, create a new repositor
 Copy the code to the local repository.
 
 The URL of the GitHUB repository for this task is https://github.com/stellalph/PORTFOLIO-STELLA1.git and the URL of the deployed application is https://stellalph.github.io/PORTFOLIO-STELLA1/
+# PORTFOLIO-STELLA2
